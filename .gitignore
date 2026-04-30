@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+
+# Native build outputs (we generate via prebuild on CI)
+android/
+ios/
+
+# Env
+.env
+.env.*
